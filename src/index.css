@@ -1,0 +1,20 @@
+
+body {
+  margin: 0;
+  padding-top: 60px;
+  padding-left:60px;
+  box-sizing:border-box;
+  font-family: 'DM Sans', sans-serif;
+}
+
+*,
+*:before,
+*:after
+{
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: 'DM Sans';
+  src: url('./styles/fonts/static/DMSans_36pt-Regular.ttf')
+}
